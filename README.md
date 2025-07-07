@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsha D Shetty</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshadshetty09&label=Profile%20views&color=0e75b6&style=flat" alt="adarshadshetty09" /> </p>
+- 🌱 I’m currently learning **DevOps and Backend**
+
+- 📫 How to reach me **adarshadshetty09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
