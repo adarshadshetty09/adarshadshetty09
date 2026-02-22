@@ -1,18 +1,92 @@
 <h1 align="center">Hi 👋, I'm Adarsha D Shetty</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">🚀 DevOps Engineer | Backend Developer | Cloud & Automation Enthusiast</h3>
 
-- 🌱 I’m currently learning **DevOps and Backend**
-
-- 📫 How to reach me **adarshadshetty09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsha-d-shetty-532909217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsha-d-shetty-532909217/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adarshadshetty18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adarshadshetty18/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adarshadshetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adarshadshetty/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@adarshadshetty18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@adarshadshetty18/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/adarshadsx0xc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adarshadsx0xc/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:adarshadshetty09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adarshadshetty09@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarsha-d-shetty-532909217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsha%20Shetty-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/adarshadshetty/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
+
+<h3>👨‍💻 About Me</h3>
+
+<ul>
+<li>🌱 Currently learning <b>Advanced DevOps & Backend Systems</b></li>
+<li>⚙️ Passionate about <b>CI/CD, Kubernetes, Docker & Automation</b></li>
+<li>☁️ Exploring <b>Cloud Infrastructure & Scalable Systems</b></li>
+<li>📫 Reach me at <b>adarshadshetty09@gmail.com</b></li>
+</ul>
+
+---
+
+<h3>🚀 Tech Stack</h3>
+
+<h4>⚙️ DevOps & Cloud</h4>
+<p>
+Docker • Kubernetes • Jenkins • Travis CI • GCP • NGINX • Vagrant
+</p>
+
+<h4>💻 Backend & Programming</h4>
+<p>
+Go • Java • Python • Node.js • Express.js
+</p>
+
+<h4>🗄️ Databases</h4>
+<p>
+MongoDB • MySQL • PostgreSQL
+</p>
+
+<h4>📊 Monitoring & Logging</h4>
+<p>
+Grafana • Kibana
+</p>
+
+<h4>🧰 Tools & OS</h4>
+<p>
+Linux • Git • Bash
+</p>
+
+---
+
+<h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+<h3>🔥 What I'm Currently Working On</h3>
+
+<ul>
+<li>🚀 Containerized backend applications</li>
+<li>⚙️ CI/CD pipeline automation</li>
+<li>☁️ Kubernetes deployments</li>
+<li>📦 Infrastructure as Code (IaC)</li>
+</ul>
+
+---
+
+<h3>🤝 Connect With Me</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/adarsha-d-shetty-532909217/">LinkedIn</a> •
+<a href="https://leetcode.com/u/adarshadshetty/">LeetCode</a> •
+<a href="https://www.hackerrank.com/profile/adarshadshetty18/">HackerRank</a> •
+<a href="https://www.hackerearth.com/@adarshadshetty18/">HackerEarth</a> •
+<a href="https://www.geeksforgeeks.org/user/adarshadsx0xc/">GeeksforGeeks</a>
+</p>
+
+---
+
+<p align="center">
+⭐ <i>"Automate everything that can be automated."</i>
+</p>
