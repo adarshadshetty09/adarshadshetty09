@@ -118,4 +118,8 @@
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+</a>
+
 </p>
