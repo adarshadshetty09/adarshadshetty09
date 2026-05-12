@@ -100,7 +100,7 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>Git
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP
 </td>
 
 <td align="center" width="90">
