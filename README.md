@@ -36,7 +36,7 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 </td>
 
 <td align="center" width="100">
-<a href="https://leetcode.com/u/adarshadshetty/" target="_blank">
+<a href="https://leetcode.com/u/Adarsha123_/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" width="48"/>
 </a>
 <br>LeetCode
