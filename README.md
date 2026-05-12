@@ -100,6 +100,10 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 </td>
 
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>Git
+</td>
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash
 </td>
 </tr>
@@ -124,9 +128,6 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 <img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
-</td>
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
