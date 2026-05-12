@@ -1,72 +1,122 @@
 <h1 align="center">Hi 👋, I'm Adarsha D Shetty</h1>
-<h3 align="center">DevOps Engineer | Backend Enthusiast | Cloud & Automation Learner</h3>
+
+<h3 align="center">
+DevOps Engineer | Cloud & Automation Enthusiast | Backend Developer
+</h3>
 
 <p align="center">
-🌱 Currently focused on <strong>DevOps and Backend Development</strong> <br>
-📫 Reach me at <strong>adarshadshetty09@gmail.com</strong>
+Passionate about building scalable infrastructure, automating workflows, and developing reliable backend systems.
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently focused on **DevOps, Cloud Engineering, and Backend Development**
+- 🌱 Learning and working with **Kubernetes, Terraform, AWS, Docker, CI/CD, and Microservices**
+- 💻 Backend development experience with **Python, Node.js, Express, Java, and Go**
+- 🛠️ Interested in **Infrastructure Automation, Containerization, Monitoring, and System Design**
+- 📚 Constantly improving problem-solving and DSA skills
+- 📫 Reach me at: **adarshadshetty09@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adarsha-d-shetty-532909217/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/adarsha-d-shetty-532909217/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-<a href="https://www.hackerrank.com/profile/adarshadshetty18/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+
+<a href="https://leetcode.com/u/adarshadshetty/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45" />
 </a>
-<a href="https://leetcode.com/u/adarshadshetty/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+
+<a href="https://www.hackerrank.com/profile/adarshadshetty18/" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank" height="45" />
 </a>
-<a href="https://www.hackerearth.com/@adarshadshetty18/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+
+<a href="https://www.hackerearth.com/@adarshadshetty18/" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerearth" height="45" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/adarshadsx0xc/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+
+<a href="https://www.geeksforgeeks.org/user/adarshadsx0xc/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="45" />
 </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45"/></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45" height="45"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/></a>
-<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/></a>
-<a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45"/></a>
-<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="45" height="45"/></a>
-<a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
-
-<br><br>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
-<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
-
-<br><br>
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/></a>
-<a href="https://travis-ci.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="45" height="45"/></a>
-<a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="45" height="45"/></a>
 
 </p>
 
 ---
 
+# 💻 Tech Stack
+
+## ☁️ DevOps & Cloud
+
 <p align="center">
-🚀 Passionate about building scalable infrastructure, automating workflows, and improving system reliability.
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,jenkins,linux,nginx,bash,git" />
+</p>
+
+---
+
+## 🚀 Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,go" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+---
+
+## 📊 Monitoring & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Goals for 2026
+
+- Master Kubernetes & Cloud-Native Technologies
+- Build Production-Ready DevOps Projects
+- Improve System Design & Scalability Knowledge
+- Contribute to Open Source Projects
+- Strengthen DSA & Backend Engineering Skills
+
+---
+
+<p align="center">
+⭐ Always learning, building, and improving.
 </p>
