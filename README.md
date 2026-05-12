@@ -90,10 +90,9 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshaDShetty&layout=compact&theme=tokyonight"/>
 
 </p>
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=adarshadshetty09&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=AdarshaDShetty&theme=tokyonight&hide_border=true"/>
 </p>
