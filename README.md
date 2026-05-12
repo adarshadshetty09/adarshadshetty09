@@ -25,25 +25,39 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="100">
 <a href="https://www.linkedin.com/in/adarsha-d-shetty-532909217/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
+<br>LinkedIn
+</td>
 
+<td align="center" width="100">
 <a href="https://leetcode.com/u/adarshadshetty/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="48"/>
 </a>
+<br>LeetCode
+</td>
 
+<td align="center" width="100">
 <a href="https://www.hackerrank.com/profile/adarshadshetty18/" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" height="45"/>
+<img src="https://cdn.simpleicons.org/hackerrank" width="48"/>
 </a>
+<br>HackerRank
+</td>
 
+<td align="center" width="100">
 <a href="https://www.geeksforgeeks.org/user/adarshadsx0xc/" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" height="45"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks" width="48"/>
 </a>
+<br>GeeksforGeeks
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
