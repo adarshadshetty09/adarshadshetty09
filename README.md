@@ -51,87 +51,115 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 
 ### ☁️ DevOps & Cloud
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
+</td>
 
-<img src="https://skillicons.dev/icons?i=linux" width="48"/>
-<img src="https://skillicons.dev/icons?i=docker" width="48"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/>
-<img src="https://skillicons.dev/icons?i=terraform" width="48"/>
-<img src="https://skillicons.dev/icons?i=aws" width="48"/>
-<img src="https://skillicons.dev/icons?i=jenkins" width="48"/>
-<img src="https://skillicons.dev/icons?i=nginx" width="48"/>
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-<img src="https://skillicons.dev/icons?i=bash" width="48"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
+</td>
 
-</p>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
+</td>
 
-<p align="center">
-Linux &nbsp; • &nbsp;
-Docker &nbsp; • &nbsp;
-Kubernetes &nbsp; • &nbsp;
-Terraform &nbsp; • &nbsp;
-AWS &nbsp; • &nbsp;
-Jenkins &nbsp; • &nbsp;
-NGINX &nbsp; • &nbsp;
-Git &nbsp; • &nbsp;
-Bash
-</p>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>NGINX
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Backend Development
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-<img src="https://skillicons.dev/icons?i=express" width="48"/>
-<img src="https://skillicons.dev/icons?i=java" width="48"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
 
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
 
-<p align="center">
-Python &nbsp; • &nbsp;
-Node.js &nbsp; • &nbsp;
-Express.js &nbsp; • &nbsp;
-Java &nbsp; • &nbsp;
-JavaScript
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-<img src="https://skillicons.dev/icons?i=postgresql" width="48"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
 
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
 
-<p align="center">
-MongoDB &nbsp; • &nbsp;
-MySQL &nbsp; • &nbsp;
-PostgreSQL
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br>PostgreSQL
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### 📊 Monitoring & Tools
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=grafana" width="48"/>
-<img src="https://skillicons.dev/icons?i=prometheus" width="48"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana
+</td>
 
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus
+</td>
 
-<p align="center">
-Grafana &nbsp; • &nbsp;
-Prometheus
-</p>
+</tr>
+</table>
 
 ---
 
