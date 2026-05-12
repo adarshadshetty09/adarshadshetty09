@@ -85,9 +85,9 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adarshadshetty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshadshetty&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,11 +96,5 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-⭐ Always learning, building, and improving.
+<img src="https://streak-stats.demolab.com?user=adarshadshetty&theme=tokyonight&hide_border=true"/>
 </p>
