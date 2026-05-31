@@ -16,7 +16,7 @@ Passionate about building scalable infrastructure, automating workflows, and dev
 
 - 🔭 Focused on **DevOps, Cloud Engineering, and Backend Development**
 - 🌱 Learning **Kubernetes, Terraform, AWS, Docker, and CI/CD**
-- 🐍 Working with **Python, Node.js, Java, and Backend APIs**
+- 🐍 Working with **Python and Backend APIs**
 - ⚡ Interested in **Automation, Monitoring, and Scalable Systems**
 - 📚 Improving **DSA and Problem-Solving Skills**
 - 📫 Reach me at: **adarshadshetty09@gmail.com**
